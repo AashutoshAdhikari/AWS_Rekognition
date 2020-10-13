@@ -1,2 +1,2 @@
-# GCA_Lab_4
-Lab 4 of AWS AI/ML Course where we explore AWS Rekognition for facial analysis
+# AWS_Rekognition
+Here we explore AWS Rekognition for facial analysis
